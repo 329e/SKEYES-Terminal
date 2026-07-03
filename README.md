@@ -1,3 +1,5 @@
+<img width="1053" height="683" alt="image" src="https://github.com/user-attachments/assets/a049285c-2c62-4f64-82f9-36cdd1256d31" />
+
 # SKEYES Terminal
 
 **SKEYES Terminal** is a standalone Windows application (`.exe`) that
